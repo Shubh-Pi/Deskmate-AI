@@ -1,0 +1,26 @@
+# Core
+pyyaml
+fuzzywuzzy[speedup]
+python-dotenv
+
+# Automation
+pyautogui
+keyboard
+psutil
+requests
+
+# Database
+
+# Logging
+loguru
+
+# Optional NLP for mapping improvements
+sentence-transformers
+
+# Security
+bcrypt
+PyJWT
+
+# Crypto and env
+cryptography
+
